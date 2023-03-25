@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quentin Jolli</h1>
-<h3 align="center">A passionate cybersécurity and networks from French</h3>
+<h3 align="center">A cybersecurity and network enthusiast from France</h3>
 
 - 📫 How to reach me **quentin.jolli@gmail.com**
 
